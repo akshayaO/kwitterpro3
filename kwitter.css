@@ -1,0 +1,14 @@
+body{
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    background-color: lightskyblue;
+}
+#user_name{
+    width: 600;
+}
+
+#enjoy{
+    font-size: 20px;
+}
+
